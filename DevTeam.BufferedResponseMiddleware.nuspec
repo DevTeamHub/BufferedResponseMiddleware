@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>DevTeam.BufferedResponseMiddleware</id>
+    <version>0.0.1</version>
+    <title>Buffered Response Middleware</title>
+    <authors>Dev Team Inc.</authors>
+    <owners>Dev Team Inc.</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Buffered Response Middleware.</description>
+    <summary />
+    <releaseNotes>Unstable version without the documentation.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <dependencies>
+      <dependency id="Microsoft.Owin" version="3.0.1" />
+    </dependencies>
+  </metadata>
+</package>
